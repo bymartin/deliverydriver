@@ -3196,6 +3196,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b575f3a82a844154a2bbb507dd99405, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  hasPackageColor:
+    serializedVersion: 2
+    rgba: 4282495553
+  noPackageColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  destroyDelay: 0.5
 --- !u!1 &1721471195
 GameObject:
   m_ObjectHideFlags: 0
